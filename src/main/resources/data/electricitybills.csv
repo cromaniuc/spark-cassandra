@@ -1,0 +1,10 @@
+id,name,billingPeriodFrom,billingPeriodTo,lastBill,currentBill
+1,Test Name 1,13.04.2014,13.05.2014,1,9
+2,Test Name 2,13.04.2015,13.05.2015,2,9
+3,Test Name 3,13.04.2016,13.05.2016,3,9
+4,Test Name 4,13.04.2017,13.05.2017,4,9
+5,Test Name 1,13.04.2018,13.05.2018,5,9
+6,Test Name 6,13.04.2019,13.05.2019,6,9
+7,Test Name 7,13.04.2020,13.05.2020,7,9
+8,Test Name 8,13.04.2021,13.05.2021,8,9
+9,Test Name 9,13.04.2022,13.05.2022,9,9
